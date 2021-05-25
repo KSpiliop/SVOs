@@ -5,4 +5,5 @@ dependencies:
   - openpyxl
   - nltk
   - pip:
-    - unicode 
+    - unicode
+    - Click
