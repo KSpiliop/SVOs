@@ -6,7 +6,4 @@ dependencies:
   - pandas
   - openpyxl
   - nltk
-  - pip
-  - pip:
-    - unidecode
-  
+  - unidecode
