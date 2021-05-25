@@ -1,10 +1,10 @@
 name: base
+channels:
+  - conda-forge
 dependencies:
   - spacy
   - pandas
   - openpyxl
   - nltk
-  - pip
-  - pip:
-    - unicode
+  - unicode
   
