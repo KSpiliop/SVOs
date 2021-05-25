@@ -4,6 +4,7 @@ dependencies:
   - pandas
   - openpyxl
   - nltk
+  - pip
   - pip:
     - unicode
-    - Click
+  
