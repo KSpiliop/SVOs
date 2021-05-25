@@ -6,4 +6,3 @@ dependencies:
   - nltk
   - pip:
     - unicode 
-    - click
